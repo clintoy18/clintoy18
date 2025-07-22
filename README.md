@@ -3,7 +3,7 @@
 👨‍💻 **About Me**  
 🔹 IT student based in the Cebu, Philippines 🇵🇭  
 🔹 Full Stack Developer with experience in Blade, Tailwind CSS, and a bit or React
-🔹 Passionate about building real-world projects like Thrift-It and community platforms  
+🔹 Passionate about building real-world projects like Thrift-It and community platforms  <br>
 🔹 Currently learning Laravel 12 and full-stack development  
 🔹 SK Councilor working on tech-based youth initiatives to promote paperless-governance  
 🔹 Open for collaborations on practical, community-driven web projects  
