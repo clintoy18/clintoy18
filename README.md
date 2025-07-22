@@ -1,3 +1,6 @@
+## Hi, Im Clint 
+
+
 ## 👨‍💻 About Me
 
 🔹 Full Stack Developer based in the Philippines 🇵🇭  
