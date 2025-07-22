@@ -34,8 +34,8 @@
 
 ## 📊 GitHub Stats
 
-![Clint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Clint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clintoy18&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintoy18&layout=compact&theme=radical)
 
 
 
