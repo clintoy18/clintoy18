@@ -3,11 +3,11 @@
 
 ## 👨‍💻 About Me
 
-🔹 Full Stack Developer based in the Philippines 🇵🇭  
+🔹 Backend Developer based in the Philippines 🇵🇭  
+🔹 Currently exploring frontend technologies to grow as a Full Stack Developer  
 🔹 Skilled in Laravel (Blade), PHP, MySQL, and Tailwind CSS  
 🔹 Follows service-repository pattern and writes clean, maintainable code  
 🔹 Passionate about public service and using tech for community impact  
-🔹 Currently exploring backend technologies to grow as a Full Stack Developer  
 🔹 Open for collaborations on front-end or full-stack projects  
 
 ---
