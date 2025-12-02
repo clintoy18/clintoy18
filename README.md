@@ -5,7 +5,7 @@
 
 🔹 Backend Developer based in the Philippines 🇵🇭  
 🔹 Currently exploring frontend technologies to grow as a Full Stack Developer  
-🔹 Skilled in Laravel,PHP, MySQL, and Tailwind CSS  
+🔹 Skilled in Laravel,PHP, C# and .NET, MySQL, SQL and Tailwind CSS  
 🔹 Follows service-repository pattern and writes clean, maintainable code  
 🔹 Passionate about public service and using tech for community impact  
 🔹 Open for collaborations on front-end or full-stack projects  
@@ -15,7 +15,7 @@
 ## ⚡ Fun Facts
 
 🏀 I enjoy playing basketball and staying active  
-🏃 I love running and exploring new things  
+🏃 I love running/lifting and exploring new things  
 🤝 I'm passionate about youth empowerment and public service  
 
 ---
