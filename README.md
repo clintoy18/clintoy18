@@ -3,9 +3,8 @@
 
 ## 👨‍💻 About Me
 
-🔹 Backend Developer based in the Philippines 🇵🇭  
-🔹 Currently exploring frontend technologies to grow as a Full Stack Developer  
-🔹 Skilled in Laravel,PHP, C# and .NET, MySQL, SQL and Tailwind CSS  
+🔹 Full Stack Developer based in the Cebu City, Cebu, Philippines 🇵🇭  
+🔹 Skilled in Laravel,PHP, C# and ASP.NET, MySQL, SQL and Tailwind CSS  
 🔹 Follows service-repository pattern and writes clean, maintainable code  
 🔹 Passionate about public service and using tech for community impact  
 🔹 Open for collaborations on front-end or full-stack projects  
