@@ -64,8 +64,8 @@ Full-stack developer based in Cebu City, Philippines. I build practical web syst
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
 
-![Clint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clintoy18&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintoy18&layout=compact&theme=radical)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-44-181717?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/clintoy18?style=for-the-badge&logo=github&label=Followers)
+![Profile Updated](https://img.shields.io/badge/Profile%20Updated-July%202026-0f766e?style=for-the-badge)
